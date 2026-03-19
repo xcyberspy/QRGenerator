@@ -35,7 +35,7 @@ cd QRGenerator
 <p>3. Install Required Packages</p>
 
 ```
-pip install customtkinter qrcode Pillow pyperclip validators
+pip install customtkinter "qrcode[pil]" Pillow pyperclip validators
 ```
 
 <p>4. Run the application</p>
