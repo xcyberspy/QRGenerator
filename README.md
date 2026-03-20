@@ -41,7 +41,7 @@ pip install customtkinter "qrcode[pil]" Pillow pyperclip validators
 <p>4. Run the application</p>
 
 ```
-python QR Generator.py
+python "QR Generator.py"
 ```
 
   
